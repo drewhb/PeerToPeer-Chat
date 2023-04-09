@@ -34,3 +34,5 @@ When executed, the client connects to the server and allows the user to send and
 
 ### Database
 The data base componet uses mongoDB to store the content of every message along with basic metadata like IP-address, and a timestamp. This occurs within the server and should display an error if a message isn't able to be properly saved. 
+
+![Create Document Database](p2p-database.png)
